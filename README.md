@@ -1,8 +1,8 @@
 # BashPass
 CLI based password manager
 
-I tryed to make an secure password manager in bash. Using different types of permissions, encryption and compression.
-I also left some examples in query directory for user to check before installing.
+I tried to make a secure password manager in bash. Using different types of permissions, encryption and compression.
+I also left some examples in query directory for users to check before installing.
 
 NOTE: When installed, program won't work if runned by user, you must be root in order to start it.
 
